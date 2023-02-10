@@ -1,0 +1,8 @@
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\CA--Çalışma\CA--Çalışma\bin\Debug\CA--Çalışma.exe.config
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\CA--Çalışma\CA--Çalışma\bin\Debug\CA--Çalışma.exe
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\CA--Çalışma\CA--Çalışma\bin\Debug\CA--Çalışma.pdb
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\CA--Çalışma\CA--Çalışma\obj\Debug\CA--Çalışma.csproj.AssemblyReference.cache
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\CA--Çalışma\CA--Çalışma\obj\Debug\CA--Çalışma.csproj.SuggestedBindingRedirects.cache
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\CA--Çalışma\CA--Çalışma\obj\Debug\CA--Çalışma.csproj.CoreCompileInputs.cache
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\CA--Çalışma\CA--Çalışma\obj\Debug\CA--Çalışma.exe
+D:\yazılım çalışmaları\visual çalışamaları\karışık random çalışmalar\CA--Çalışma\CA--Çalışma\obj\Debug\CA--Çalışma.pdb
